@@ -2,13 +2,19 @@
 
 ## Project Goal
 
-- Read and interpret sensor data to protect server infrastructure from environmental
-threats (humidity, moisture, and temperature)
+- Read and interpret sensor data to protect network/server infrastructure from environmental
+threats (humidity, water detection, temperature, and motion)
 
-## Active tasks
+## Active Tasks
 
-- Researching UDP beacon & websocket communication
+- Researching and developing MQTT pub/sub communication
 
-- Setting up development environment
+- Testing sensor data accuracy and thresholds
 
-- Waiting for sensor & microcontroller delivery
+- Waiting on motion sensor delivery (expected soon)
+
+## Completed Tasks
+
+- Sensors are wired correctly & data is being received
+
+- Sensor data successfully sends over a network 

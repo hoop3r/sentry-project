@@ -11,8 +11,6 @@ threats (humidity, water detection, temperature, and motion)
 
 - Testing sensor data accuracy and thresholds
 
-- Waiting on motion sensor delivery (expected soon)
-
 ## Completed Tasks
 
 - Sensors are wired correctly & data is being received
